@@ -21,6 +21,7 @@ Mod related notes:
         -Nexus-Data-gbx_discovery_viewable_map_behavior_def6.ncs
     Since it adds a new entry, there *should* be no worry about this mod overwriting gearbox/other modder updates/changes to the original Resident.ncs files.
     However, any updates to Nexus-Data-gbx_discovery_viewable_map_behavior_def*.ncs will be overwritten.
+    I'll address this in a future update.
 
 
 Installation:
