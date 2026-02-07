@@ -6,10 +6,11 @@ Description:
     You start with:
       -49 skill points
       -80 Specialization points
-      -1500 SDU tokens.
+      -1500 SDU tokens
       -20 000 eridium
       -5 000 000 cash
       -All Hover Drives are unlocked
+      -UVH6 unlocked
       
     The map is defogged too, but this affects ALL playthroughs. 
 
