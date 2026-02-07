@@ -1,3 +1,5 @@
+Version: 1.0.0
+
 Description:
 
     A Max Char and UVH level skip.
